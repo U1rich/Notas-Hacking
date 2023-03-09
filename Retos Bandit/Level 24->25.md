@@ -26,5 +26,6 @@ bandit24@bandit:~$
 ```
 
 ## Notas adicionales
+
 ## Referencias
 

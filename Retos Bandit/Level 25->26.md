@@ -42,5 +42,6 @@ bandit25@bandit:~$
 ```
 
 ## Notas adicionales
+
 ## Referencias
 
