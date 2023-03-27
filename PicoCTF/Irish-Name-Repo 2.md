@@ -6,11 +6,11 @@ The password is being filtered.
 
 ## Solución
 
-
-```bash
-
+Primero nos damos cuenta de que es la misma pagina que irish1 pero esta captando el sql injection, asi que verificamos como es que se esta evitando el sql injection y al final nos podemos percatar de que las comillas se cierran correctamente con un sqli basico. por ende usamos el nombre:
+```sql
+admin'; 
 ```
-
-### picoCTF{}
+de esa forma genera una falla e ignora el password, obteniendo el siguiente ctf
+### picoCTF{m0R3_SQL_plz_aee925db}
 ## Notas adicionales
 ## Referencias

@@ -11,9 +11,11 @@
             "id": "ab68829eaa6712be",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230314090759.png"
+                "file": "PicoCTF/Insp3ctor.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230314090759.png",
+                "file": "PicoCTF/Insp3ctor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230314090759.png",
+                "file": "PicoCTF/Insp3ctor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230314090759.png"
+                "file": "PicoCTF/Insp3ctor.md"
               }
             }
           }
@@ -146,6 +148,13 @@
   },
   "active": "ab68829eaa6712be",
   "lastOpenFiles": [
+    "PicoCTF/Client-side-again.md",
+    "PicoCTF/dont-use-client-side.md",
+    "PicoCTF/Imagenes/Pasted image 20230314085722.png",
+    "PicoCTF/Imagenes",
+    "PicoCTF/Irish-Name-Repo 2.md",
+    "PicoCTF/Irish-Name-Repo 1.md",
+    "Pasted image 20230314090759.png",
     "Examen/Pico CTF 2021/Obedient Cat.md",
     "Examen/Pico CTF 2021/Nice netcat....md",
     "Examen/Pico CTF 2021/Static ain't always noise.md",
@@ -169,19 +178,13 @@
     "Examen/Pico CTF 2019/2Warm.md",
     "Examen/Pico CTF 2019/Based.md",
     "Examen/Pico CTF 2019/Bases.md",
-    "Examen/Pico CTF 2019/First Grep.md",
-    "Examen/Pico CTF 2019/Lets Warm Up.md",
-    "Pasted image 20230314090759.png",
-    "Pasted image 20230314090043.png",
-    "Pasted image 20230314085722.png",
+    "PicoCTF/Imagenes/Pasted image 20230314090043.png",
     "Pasted image 20230325023235.png",
     "Pasted image 20230325022637.png",
     "Pasted image 20230325021519.png",
     "Pasted image 20230325020704.png",
     "Pasted image 20230325020113.png",
     "Pasted image 20230325015653.png",
-    "PicoCTF/What Lies Within.md",
-    "PicoCTF/Bases 1 5.md",
     "PicoCTF",
     "Examen/Pico CTF 2021",
     "Examen/Pico CTF 2022",
