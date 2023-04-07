@@ -1,14 +1,16 @@
-## Objetivo
+## Description
 
 ## Hints
 
-## Solución
+## Solution
 
 
 ```bash
 
 ```
 
-### picoCTF{}
-## Notas adicionales
-## Referencias
+## Flag
+
+## Aditional Notes
+
+## References

@@ -1,0 +1,37 @@
+## Objetivo
+
+Can you make sense of this file?Download the file [here](https://artifacts.picoctf.net/c/475/enc_flag).
+
+## Hints
+
+Multiple decoding is always good.
+
+## Solución
+
+hay que descargar el archivo y decifrar usando base64 4 veces
+
+```
+VjFSQ2EyTXlSblJUV0dSVllrWmFWRmx0TlZOalJtUlhZVVU1YVZKVVZuaFdWekZoWVZkR2NrNVVX
+bUZTVmtwUVdWUkdibVZXVm5WUgpiSEJzWVRCd2VWVXhXbXBOUlRWSFdqTnNWZ3BYUjFKeVZGZHdW
+MlZzVWxaVmJFNW9UVVJDTlZaWE1XRlVkM0JUVWpOUk1WWkhOWGRYCmF6QjRZMFZXVkdGdGVFVlhi
+bTkzVDFWT2JsQlVNRXNLCg==
+
+V1RCa2MyRnRTWGRVYkZaVFltNVNjRmRXYUU5aVJUVnhWVzFhYVdGck5UWmFSVkpQWVRGbmVWVnVR
+bHBsYTBweVUxWmpNRTVHWjNsVgpXR1JyVFdwV2VsUlZVbE5oTURCNVZXMWFUd3BTUjNRMVZHNXdX
+azB4Y0VWVGFteEVXbm93T1VOblBUMEsK
+
+WTBkc2FtSXdUbFZTYm5ScFdWaE9iRTVxVW1aaWFrNTZaRVJPYTFneVVuQlpla0pyU1ZjME5GZ3lV
+WGRrTWpWelRVUlNhMDB5VW1aTwpSR3Q1VG5wWk0xcEVTamxEWnowOUNnPT0K
+
+Y0dsamIwTlVSbnRpWVhObE5qUmZiak56ZEROa1gyUnBZekJrSVc0NFgyUXdkMjVzTURSa00yUmZO
+RGt5TnpZM1pESjlDZz09Cg=
+
+cGljb0NURntiYXNlNjRfbjNzdDNkX2RpYzBkIW44X2Qwd25sMDRkM2RfNDkyNzY3ZDJ9Cg=
+
+picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_492767d2}
+```
+## Bandera
+`picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_492767d2}`
+
+## Notas adicionales
+## Referencias
