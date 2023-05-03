@@ -8,18 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08359ab3051b7dff",
+            "id": "01885d296f22edf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Retos Forensic Parte 3/WebNet1.md",
+                "file": "PicoCTF/Crypto - Parte 2/rsa pop quiz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f781941423f1784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Reversing/VaultDorTraining.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb41aed510e0d41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Reversing/Vault-door-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f14329d6f381b7c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Reversing/vault-door-4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fbd070c86a6d7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Crypto - Parte 2/rsa pop quiz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ccb77c39de571ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Crypto - Parte 3/Plantilla CTF 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -64,6 +125,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ba21bc3c5ea3613c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Retos Forensic Parte 3/WebNet1.md",
+                "file": "PicoCTF/Crypto - Parte 3/Plantilla CTF 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Retos Forensic Parte 3/WebNet1.md",
+                "file": "PicoCTF/Crypto - Parte 3/Plantilla CTF 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Retos Forensic Parte 3/WebNet1.md"
+                "file": "PicoCTF/Crypto - Parte 3/Plantilla CTF 1.md"
               }
             }
           }
@@ -146,44 +215,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "08359ab3051b7dff",
+  "active": "7ccb77c39de571ef",
   "lastOpenFiles": [
-    "PicoCTF/Retos Forensic Parte 3/WebNet0.md",
+    "PicoCTF/Crypto - Parte 3/Pixelated.md",
+    "PicoCTF/Crypto - Parte 3/basic-mod1.md",
+    "PicoCTF/Crypto - Parte 2/rsa pop quiz.md",
+    "PicoCTF/Reversing/vault-door-4.md",
+    "PicoCTF/Reversing/vault-door-3.md",
+    "PicoCTF/Reversing/Vault-door-1.md",
+    "PicoCTF/Reversing/VaultDorTraining.md",
+    "PicoCTF/Reversing",
+    "PicoCTF/Crypto - Parte 2/miniRSA.md",
+    "PicoCTF/Crypto - Parte 2/b00tl3gRSA2.md",
+    "PicoCTF/Crypto - Parte 1/waves over lambda txt - crack.md",
+    "PicoCTF/Crypto - Parte 1/The numbers.md",
+    "PicoCTF/Crypto - Parte 1/Tapping txt.md",
+    "PicoCTF/Crypto - Parte 1/la cifra de txt - crack.md",
+    "PicoCTF/Crypto - Parte 1/Easy 1.md",
+    "PicoCTF/Crypto - Parte 1/13.md",
+    "PicoCTF/Crypto - Parte 1/Caesar.md",
+    "PicoCTF/Retos Web Parte 2/Irish-Name-Repo 1.md",
+    "PicoCTF/Crypto - Parte 3/Plantilla CTF 1.md",
+    "PicoCTF/Crypto - Parte 3",
+    "PicoCTF/Crypto - Parte 1",
+    "PicoCTF/Crypto - Parte 2",
+    "Plantilla CTF.md",
     "PicoCTF/Retos Forensic Parte 3/WebNet1.md",
+    "PicoCTF/Retos Forensic Parte 3/WebNet0.md",
     "PicoCTF/Retos Forensic Parte 3/tunn3l_v1s10n.md",
     "PicoCTF/Retos Forensic Parte 3/Matryoshka doll.md",
     "PicoCTF/Retos Forensic Parte 3/MacroHard WeakEdge.md",
-    "Plantilla CTF.md",
     "PicoCTF/Retos Forensic Parte 2/WhitePages.md",
     "PicoCTF/Retos Forensic Parte 2/shark on wire 2.md",
-    "PicoCTF/Retos Forensic Parte 2/m00nwalk.md",
-    "PicoCTF/Retos Forensic Parte 2/Like1000.md",
-    "PicoCTF/Retos Forensic Parte 2/C0rrupt.md",
     "PicoCTF/Retos Forensic Parte 3",
-    "PicoCTF/Retos Forensic Parte 1/Extensions.md",
-    "PicoCTF/Retos Forensic Parte 1/gloryofthegarden F.md",
-    "PicoCTF/Retos Forensic Parte 1/Shark the wire 1.md",
-    "PicoCTF/Retos Forensic Parte 1/So Meta.md",
-    "PicoCTF/Retos Forensic Parte 1/What Lies Within.md",
-    "PicoCTF/PicoCTF2023/useless.md",
-    "PicoCTF/PicoCTF2023/Soap.md",
-    "PicoCTF/PicoCTF2023/rotations.md",
-    "PicoCTF/PicoCTF2023/Reverse.md",
-    "PicoCTF/PicoCTF2023/repetitions.md",
-    "PicoCTF/PicoCTF2023/Ready Gladiator 0.md",
-    "PicoCTF/PicoCTF2023/ReadMyCert.md",
-    "PicoCTF/PicoCTF2023/Java Code Analysis.md",
-    "PicoCTF/PicoCTF2023/Permissions.md",
-    "PicoCTF/PicoCTF2023/MatchTheRegex.md",
     "PicoCTF/PicoCTF2023",
     "PicoCTF/Retos Forensic Parte 2",
     "PicoCTF/Retos Forensic Parte 1",
     "PicoCTF/Retos Web Parte 3",
     "PicoCTF/Retos Web Parte 2",
-    "PicoCTF/Retos Web Parte 1",
-    "hash",
     "PicoCTF/Imagenes/Pasted image 20230314085722.png",
-    "PicoCTF/Imagenes",
     "PicoCTF/Imagenes/Pasted image 20230314090759.png",
     "PicoCTF/Imagenes/Pasted image 20230325222937.png",
     "PicoCTF/Imagenes/Pasted image 20230314090043.png",
@@ -192,7 +262,6 @@
     "PicoCTF/Imagenes/Pasted image 20230325021519.png",
     "PicoCTF/Imagenes/Pasted image 20230325020704.png",
     "PicoCTF/Imagenes/Pasted image 20230325020113.png",
-    "PicoCTF/Imagenes/Pasted image 20230325015653.png",
-    "PicoCTF"
+    "PicoCTF/Imagenes/Pasted image 20230325015653.png"
   ]
 }
