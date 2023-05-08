@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Crypto - Parte 3/ReadMyCert.md",
+                "file": "PicoCTF/Reversing-Parte-3/Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Crypto - Parte 3/ReadMyCert.md",
+                "file": "PicoCTF/Reversing-Parte-3/Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Crypto - Parte 3/ReadMyCert.md",
+                "file": "PicoCTF/Reversing-Parte-3/Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Crypto - Parte 3/ReadMyCert.md"
+                "file": "PicoCTF/Reversing-Parte-3/Safe Opener 2.md"
               }
             }
           }
@@ -156,12 +156,25 @@
   },
   "active": "7ccb77c39de571ef",
   "lastOpenFiles": [
+    "PicoCTF/Reversing-Parte-3/reverse_cipher.md",
+    "PicoCTF/Reversing-Parte-3/GDB Test Drive.md",
+    "PicoCTF/Reversing-Parte-3/Need For Speed.md",
+    "PicoCTF/Reversing-Parte-3/Safe Opener 2.md",
+    "PicoCTF/Reversing-Parte-2/ASM1.md",
+    "PicoCTF/Reversing-Parte-2/ASM3.md",
+    "PicoCTF/Reversing-Parte-2/ASM2.md",
+    "PicoCTF/Reversing-Parte-1/vault-door-4.md",
+    "PicoCTF/Reversing-Parte-3",
+    "PicoCTF/Reversing-Parte-2",
+    "PicoCTF/Reversing-Parte-1/Vault-door-1.md",
+    "PicoCTF/Reversing-Parte-1/vault-door-3.md",
+    "PicoCTF/Reversing-Parte-1/VaultDorTraining.md",
+    "PicoCTF/Crypto - Parte 3/ReadMyCert.md",
     "PicoCTF/Crypto - Parte 3/Pixelated.md",
     "PicoCTF/Crypto - Parte 3/Mind your PS and Qs.md",
     "PicoCTF/Crypto - Parte 3/HideToSee.md",
     "PicoCTF/Crypto - Parte 3/basic-mod1.md",
     "PicoCTF/PicoCTF2023/IfReadtheRulesGifYou100Point.md",
-    "PicoCTF/Crypto - Parte 3/ReadMyCert.md",
     "PicoCTF/PicoCTF2023/ReadMyCert.md",
     "Examenes/Examen 2/Pico CTF 2022 - Web/Power Cookie.md",
     "Examenes/Examen 2/Pico CTF 2022 - Web/Search Source.md",
@@ -171,27 +184,14 @@
     "Examenes/Examen 2/Pico CTF 2022 - Web/Inspect HTML.md",
     "Examenes/Examen 2/Pico CTF 2022 - Web/SQLLite.md",
     "Examenes/Examen 2/Pico CTF 2022 - Web/SQL Direct.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Web/Includes.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Web/Forbidden Paths.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Forensic/Enhance!.md",
-    "PicoCTF/Retos Forensic Parte 3/tunn3l_v1s10n.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Forensic/St3g0.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Forensic/Redaction gone wrong.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Forensic/Lookey here.md",
-    "ASM2.md",
-    "ASM1.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Forensic/Packets Primer.md",
-    "Examenes/Examen 2/Pico CTF 2021 - Forensic/Wireshark doo dooo do doo...md",
     "Examenes/Examen 2/Pico CTF 2022 - Forensic",
     "Examen/Examen 2/Pico CTF 2023",
     "Examenes/Examen 2/Pico CTF 2022 - Web",
     "Examenes/Examen 2/Pico CTF 2021 - Forensic",
     "Examenes/Examen 1",
     "Examenes/Examen 2",
-    "PicoCTF/Reversing",
+    "PicoCTF/Reversing-Parte-1",
     "PicoCTF/Crypto - Parte 3",
-    "PicoCTF/Crypto - Parte 1",
-    "PicoCTF/Crypto - Parte 2",
     "PicoCTF/Imagenes/Pasted image 20230314085722.png",
     "PicoCTF/Imagenes/Pasted image 20230314090759.png",
     "PicoCTF/Imagenes/Pasted image 20230325222937.png",
