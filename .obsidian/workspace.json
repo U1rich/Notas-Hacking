@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Reversing-Parte-3/reverse_cipher.md",
+                "file": "PicoCTF/Binary-Explotation-Parte-1/buffer overflow 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Reversing-Parte-3/reverse_cipher.md",
+                "file": "PicoCTF/Binary-Explotation-Parte-1/buffer overflow 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Reversing-Parte-3/reverse_cipher.md",
+                "file": "PicoCTF/Binary-Explotation-Parte-1/buffer overflow 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Reversing-Parte-3/reverse_cipher.md"
+                "file": "PicoCTF/Binary-Explotation-Parte-1/buffer overflow 1.md"
               }
             }
           }
@@ -166,6 +166,14 @@
   },
   "active": "7ccb77c39de571ef",
   "lastOpenFiles": [
+    "PicoCTF/Binary-Explotation-Parte-1/buffer overflow 0.md",
+    "PicoCTF/Binary-Explotation-Parte-1/basic-file-exploit.md",
+    "PicoCTF/Binary-Explotation-Parte-1/buffer overflow 1.md",
+    "PicoCTF/Binary-Explotation-Parte-1/basic-file-exploit 1 1 1.md",
+    "PicoCTF/Binary-Explotation-Parte-1",
+    "PicoCTF/Reversing-Parte-3/Safe Opener.md",
+    "PicoCTF/Reversing-Parte-3/Safe Opener 2.md",
+    "PicoCTF/Reversing-Parte-3/reverse_cipher.md",
     "PicoCTF/Reversing-Parte-3/Need For Speed.md",
     "PicoCTF/Reversing-Parte-3/GDB Test Drive.md",
     "PicoCTF/Reversing-Parte-2/ASM1.md",
@@ -174,8 +182,6 @@
     "PicoCTF/Reversing-Parte-1/vault-door-4.md",
     "PicoCTF/Reversing-Parte-1/vault-door-3.md",
     "PicoCTF/Reversing-Parte-1/Vault-door-1.md",
-    "PicoCTF/Reversing-Parte-3/Safe Opener 2.md",
-    "PicoCTF/Reversing-Parte-3/reverse_cipher.md",
     "PicoCTF/Reversing-Parte-3",
     "PicoCTF/Reversing-Parte-2",
     "PicoCTF/Reversing-Parte-1/VaultDorTraining.md",
@@ -189,11 +195,6 @@
     "Examenes/Examen 2/Pico CTF 2022 - Web/Power Cookie.md",
     "Examenes/Examen 2/Pico CTF 2022 - Web/Search Source.md",
     "Examenes/Examen 2/Pico CTF 2022 - Web/Secrets.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Web/Roboto Sans.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Web/Local Authority.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Web/Inspect HTML.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Web/SQLLite.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Web/SQL Direct.md",
     "Examenes/Examen 2/Pico CTF 2022 - Forensic",
     "Examen/Examen 2/Pico CTF 2023",
     "Examenes/Examen 2/Pico CTF 2022 - Web",
@@ -201,7 +202,6 @@
     "Examenes/Examen 1",
     "Examenes/Examen 2",
     "PicoCTF/Reversing-Parte-1",
-    "PicoCTF/Crypto - Parte 3",
     "PicoCTF/Imagenes/Pasted image 20230314085722.png",
     "PicoCTF/Imagenes/Pasted image 20230314090759.png",
     "PicoCTF/Imagenes/Pasted image 20230325222937.png",
