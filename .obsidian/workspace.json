@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Binary-Explotation-Parte-1/basic-file-exploit.md",
+                "file": "PicoCTF/Binary-Explotation-Parte-2/Stonks.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Binary-Explotation-Parte-1/basic-file-exploit.md",
+                "file": "PicoCTF/Binary-Explotation-Parte-2/Stonks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Binary-Explotation-Parte-1/basic-file-exploit.md",
+                "file": "PicoCTF/Binary-Explotation-Parte-2/Stonks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Binary-Explotation-Parte-1/basic-file-exploit.md"
+                "file": "PicoCTF/Binary-Explotation-Parte-2/Stonks.md"
               }
             }
           }
@@ -164,11 +164,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7ccb77c39de571ef",
+  "active": "e86d99578fa2289d",
   "lastOpenFiles": [
+    "PicoCTF/Binary-Explotation-Parte-2/flag leak.md",
+    "PicoCTF/Binary-Explotation-Parte-2/Stonks.md",
+    "PicoCTF/Binary-Explotation-Parte-1/basic-file-exploit.md",
+    "PicoCTF/Binary-Explotation-Parte-2",
     "PicoCTF/Binary-Explotation-Parte-1/buffer overflow 0.md",
     "PicoCTF/Binary-Explotation-Parte-1/buffer overflow 1.md",
-    "PicoCTF/Binary-Explotation-Parte-1/basic-file-exploit.md",
     "PicoCTF/Binary-Explotation-Parte-1/basic-file-exploit 1 1 1.md",
     "PicoCTF/Binary-Explotation-Parte-1",
     "PicoCTF/Reversing-Parte-3/Safe Opener.md",
@@ -193,15 +196,12 @@
     "PicoCTF/PicoCTF2023/IfReadtheRulesGifYou100Point.md",
     "PicoCTF/PicoCTF2023/ReadMyCert.md",
     "Examenes/Examen 2/Pico CTF 2022 - Web/Power Cookie.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Web/Search Source.md",
-    "Examenes/Examen 2/Pico CTF 2022 - Web/Secrets.md",
     "Examenes/Examen 2/Pico CTF 2022 - Forensic",
     "Examen/Examen 2/Pico CTF 2023",
     "Examenes/Examen 2/Pico CTF 2022 - Web",
     "Examenes/Examen 2/Pico CTF 2021 - Forensic",
     "Examenes/Examen 1",
     "Examenes/Examen 2",
-    "PicoCTF/Reversing-Parte-1",
     "PicoCTF/Imagenes/Pasted image 20230314085722.png",
     "PicoCTF/Imagenes/Pasted image 20230314090759.png",
     "PicoCTF/Imagenes/Pasted image 20230325222937.png",
